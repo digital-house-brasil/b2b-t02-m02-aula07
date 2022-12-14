@@ -11,6 +11,9 @@
     - 5 Sair
 - Para escolher a opção, basta digitar o número correspondente. Feito isso, deve exibir a tabuada completa do número e da opção selecionada. 
 - O programa só será encerrado, se a pessoa digitar o número 5.
+- Exemplo para uma entrada do número 3 e da escolha da opção 2, sua saída será conforme a imagem abaixo:
+
+![](./exemplo.png)
 ----------------------------------------------------
 ### Par ou Ímpar
 - Faça um programa que construa uma matriz 5 linhas e 5 colunas contendo números inteiros. 
