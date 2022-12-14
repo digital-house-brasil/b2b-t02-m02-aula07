@@ -1,0 +1,8 @@
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\bin\Debug\App.exe.config
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\bin\Debug\App.exe
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\bin\Debug\App.pdb
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\obj\Debug\App.exe
+C:\Users\dhieg\Documents\Jobs\DH\Turmas\IBRF\b2b-t02-m03-aula07\App\App\obj\Debug\App.pdb
