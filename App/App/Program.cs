@@ -109,7 +109,29 @@ namespace App
                     }
                 }
             }
-            Questao02();
+            void Questao03()
+            {
+                int[,] matriz = new int[3,3];
+                int[] array = new int[3];
+
+                for (int i = 0; i<3; i++){
+                    for(int j = 0; j<3; j++){
+                        Console.WriteLine("Digite o valor na posição " + i + "," + j + ": ");
+                        matriz[i,j] = int.Parse(Console.ReadLine());
+
+                        if (i == j){
+                            array[i] = matriz[i, j];
+                        }
+                    }
+                }
+                Console.WriteLine("Os valores da diagonal principal são: ");
+                for (int i = 0; i < 3; i++)
+                {
+                    Console.WriteLine(array[i]);
+                }
+                Console.ReadKey();
+            }
+            Questao03();
         }
     }
 }
